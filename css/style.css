@@ -149,7 +149,7 @@ a:focus {
 /* Sezione Barra di navigazione - NAV BAR */
 .nav-bar {
     position: relative;
-    background: #027db2;
+    background: #155724;
     transition: .3s;
 }
 
@@ -168,7 +168,7 @@ a:focus {
 
 .nav-bar .navbar {
     height: 100%;
-    background: #027db2!important;
+    background: #155724 !important;
 }
 
 .navbar-dark .navbar-nav .nav-link,
@@ -377,12 +377,12 @@ a:focus {
 }
 
 .services .col-md-12 {
-    background: #027db2;
+    background: #155724;
 }
     
 .services .col-md-12:nth-child(2n) {
     color: #030f27;
-    background: #027db2;
+    background: #155724;
 }
 
 .services .services-item {
@@ -498,7 +498,7 @@ a:focus {
     letter-spacing: 1px;
     color: #ffffff;
     border-radius: 0;
-    background: #027db2;
+    background: #155724;
     transition: .3s;
 }
 
@@ -569,12 +569,12 @@ a:focus {
 
 .numbers .numbers-left {
     color: #ffffff;
-    background: #495057;
+    background: #155724;
 }
 
 .numbers .numbers-right {
     color: #030f27;
-    background: #027db2;
+    background: #155724;
 }
 
 .numbers .numbers-left h2 {
@@ -609,7 +609,7 @@ a:focus {
     position: relative;
     padding: 25px 15px;
     text-align: center;
-    background: #027db2;
+    background: #155724;
     transition: .5s;
 }
 
@@ -626,7 +626,7 @@ a:focus {
 }
 
 .download .download-item:hover .download-text {
-    background: #ffffff;
+    background: #155724;
 }
 
 .download .download-item:hover .download-text h2 {
@@ -662,7 +662,7 @@ a:focus {
     display: flex;
     align-items: center;
     height: 60px;
-    background: #027db2;
+    background: #155724;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -692,7 +692,7 @@ a:focus {
     line-height: 60px;
     font-weight: 100;
     color: #ffffff;
-    background: #027db2;
+    background: #155724;
     border-radius: 0;
     transition: .3s;
 }
@@ -764,7 +764,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     padding-top: 90px;
-    background: #027db2;
+    background: #155724;
     color: #ffffff;
 }
 
